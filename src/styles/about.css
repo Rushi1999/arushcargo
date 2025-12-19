@@ -1,0 +1,37 @@
+.about-page {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+}
+
+.about-page h2 {
+  color: #1e293b;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-page h3 {
+  color: #1e293b;
+  margin-top: 25px;
+}
+
+.about-page p {
+  color: #475569;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.about-page ul {
+  margin-left: 20px;
+  color: #475569;
+  list-style-type: disc;
+}
+
+.about-page li {
+  margin-bottom: 10px;
+}
